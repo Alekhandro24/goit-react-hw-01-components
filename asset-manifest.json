@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alekhandro24/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
+    "main.js": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.ee006fd2.js",
+    "index.html": "/Alekhandro24/goit-react-hw-01-components.git/index.html",
+    "main.7acaea2f.css.map": "/Alekhandro24/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
+    "main.ee006fd2.js.map": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.ee006fd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ee006fd2.js"
+  ]
+}
