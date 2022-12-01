@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/Alekhandro24/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.ee006fd2.js",
+    "main.js": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.7d8e32f8.js",
     "index.html": "/Alekhandro24/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/Alekhandro24/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.ee006fd2.js.map": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.ee006fd2.js.map"
+    "main.7d8e32f8.js.map": "/Alekhandro24/goit-react-hw-01-components.git/static/js/main.7d8e32f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.ee006fd2.js"
+    "static/js/main.7d8e32f8.js"
   ]
 }
